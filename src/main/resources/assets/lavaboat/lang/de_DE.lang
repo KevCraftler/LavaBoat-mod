@@ -1,0 +1,17 @@
+
+# Items
+item.reinforced_boat.name=Verstärktes Boot
+item.large_reinforced_boat.name=Großes verstärktes Boot
+item.cargo_reinforced_boat.name=Verstärktes Transportboot
+item.lava_boat.name=Lavaboot
+item.large_lava_boat.name=Großes Lavaboot
+item.cargo_lava_boat.name=Lavatransportboot
+
+
+# Boats
+entity.ReinforcedBoat.name=Verstärktes Boot
+entity.DoubleReinforcedBoat.name=Großes verstärktes Boot
+entity.CargoReinforcedBoat.name=Verstärktes Frachtschiff
+entity.LavaBoat.name=Lavaboot
+entity.DoubleLavaBoat.name=Großes Transportboot
+entity.CargoLavaBoat.name=Lavatransportboot
